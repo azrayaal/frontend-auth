@@ -30,7 +30,7 @@ export default function Navbar() {
 
       <div id="navbarBasicExample" className="navbar-menu">
         <div className="navbar-start">
-          <a className="navbar-item">Home</a>
+          <a className="navbar-item">Home ini punya azra</a>
         </div>
       </div>
 
